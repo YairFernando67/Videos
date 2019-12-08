@@ -1,3 +1,72 @@
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <h2 align="center"> Youtube API with React</h2>
+
+  <p align="center">
+    Project developed with React that implements an API using Axios to retrieve data
+    from the Youtube API and display to the browser. Using reusable components and the props
+    system to comunicate parent component with child components.
+    <br />
+    <a href="https://github.com/YairFernando67/Videos"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/YairFernando67/Videos/issues">Report Bug</a>
+    ·
+  </p>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+- [Contact](#contact)
+<!-- - [Acknowledgements](#acknowledgements) -->
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+React application that implements a network request over to the
+Youtube API based on the user's search.
+
+![Screenshot Image](public/logoRepo.PNG)
+
+### Built With
+
+The project was developed using these tools and technologies.
+
+- [REACT](https://es.reactjs.org/)
+- [JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [AXIOS](https://github.com/axios/axios)
+
+<!-- CONTACT -->
+
+## Contact
+
+Yair Fernando Facio Fraga
+<p align="center">
+
+  Project Link: [https://github.com/YairFernando67/Videos](https://github.com/YairFernando67/Videos)
+</p>
+
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+    <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=yair.facio11@gmail.com">
+      yair.facio11@gmail.com
+    </a> &nbsp; |
+    <a target="_blank" href="https://yairfernando67.github.io/Portfolio/">
+      Portfolio
+    </a> &nbsp; |
+    <a target="_blank" href="https://www.linkedin.com/in/softwaredeveloperyairfacio/">
+      LinkedIn
+    </a> &nbsp; |
+    <a target="_blank" href="https://twitter.com/YairFernando18">
+      Twitter
+    </a>
+</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
